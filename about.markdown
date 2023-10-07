@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a hobbyist programmer from Germany with a tendency to get stuck in overly
+ambitious projects which I can never finish.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My main project is currently [asternix](https://github.com/Wunst/asternix), a
+toy OS / Unix clone for x86. You can type text in it (kinda)!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Also expect random bursts of game dev (even though I haven't developed anything
+mature enough that I would like to share it) and long periods of inactivity™.
